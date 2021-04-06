@@ -1,4 +1,4 @@
-# salil_coding_python
+# python
 Working on Everything Python
 
-practising exercises from PYTHON CRASH COURSE
+practising exercises from PYTHON CRASH COURSE book
